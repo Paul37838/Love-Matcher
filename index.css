@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.container{
+    width: 260px;
+    margin-top: 5rem;
+    height: 250px;
+    border: 2px solid black;
+}
+
+.flex{
+    justify-content: center;
+    display: flex;
+}
+
+.logo{
+    margin-top: 2em;
+    text-align: center;
+    color: rgb(245, 11, 11);
+}
+
+input{
+    width: 150px;
+    margin-top: 1em;
+    height: 35px;
+}
+
+button{
+    margin-top: 2em;
+    width: 120px;
+    height: 30px;
+}
+
+.des{
+    margin: 1em;
+    text-align: center;
+}
+
+.border{
+    border: 1px solid red;
+}
